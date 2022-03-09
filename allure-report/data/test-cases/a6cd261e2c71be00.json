@@ -1,0 +1,107 @@
+{
+  "uid" : "a6cd261e2c71be00",
+  "name" : "test_first",
+  "fullName" : "Pytest1.pytest_withallure.Testpyk#test_first",
+  "historyId" : "8c1a0a46d5294f564d774568103d0cb2",
+  "time" : {
+    "start" : 1646640197060,
+    "stop" : 1646640204418,
+    "duration" : 7358
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "test_parent",
+    "time" : {
+      "start" : 1646640191706,
+      "stop" : 1646640197059,
+      "duration" : 5353
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "44efe8a127a34074",
+      "name" : "test",
+      "source" : "44efe8a127a34074.png",
+      "type" : "image/png",
+      "size" : 106505
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "test_parent::0",
+    "time" : {
+      "start" : 1646640204441,
+      "stop" : 1646640207110,
+      "duration" : 2669
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Pytest1"
+  }, {
+    "name" : "suite",
+    "value" : "pytest_withallure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testpyk"
+  }, {
+    "name" : "host",
+    "value" : "kk"
+  }, {
+    "name" : "thread",
+    "value" : "16548-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pytest1.pytest_withallure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6cd261e2c71be00.json",
+  "parameterValues" : [ ]
+}

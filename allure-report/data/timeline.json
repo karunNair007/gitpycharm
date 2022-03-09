@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "kk",
+    "children" : [ {
+      "name" : "24876-MainThread",
+      "children" : [ {
+        "name" : "test_second",
+        "uid" : "d2a547d1dbd96a86",
+        "parentUid" : "f7c88c54a97ef55a1c5ca9acb15c38fb",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646660352939,
+          "stop" : 1646660352940,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_first",
+        "uid" : "7775ed2104aa564c",
+        "parentUid" : "f7c88c54a97ef55a1c5ca9acb15c38fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646660345195,
+          "stop" : 1646660352932,
+          "duration" : 7737
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f7c88c54a97ef55a1c5ca9acb15c38fb"
+    }, {
+      "name" : "16548-MainThread",
+      "children" : [ {
+        "name" : "test_first",
+        "uid" : "a6cd261e2c71be00",
+        "parentUid" : "b5d592d9f006c75746507796a25e08e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1646640197060,
+          "stop" : 1646640204418,
+          "duration" : 7358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_second",
+        "uid" : "a6dcc6a759fbf112",
+        "parentUid" : "b5d592d9f006c75746507796a25e08e9",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1646640204433,
+          "stop" : 1646640204437,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5d592d9f006c75746507796a25e08e9"
+    } ],
+    "uid" : "1ab56449cdcc00d734e52c7bbdc17090"
+  } ]
+}

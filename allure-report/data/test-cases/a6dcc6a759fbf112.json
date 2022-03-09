@@ -1,0 +1,90 @@
+{
+  "uid" : "a6dcc6a759fbf112",
+  "name" : "test_second",
+  "fullName" : "Pytest1.pytest_withallure.Testpyk#test_second",
+  "historyId" : "b3bacb368a2cec20908a682944b90bf3",
+  "time" : {
+    "start" : 1646640204433,
+    "stop" : 1646640204437,
+    "duration" : 4
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: We are going to skip this test case",
+  "statusTrace" : "('E:\\\\KRN Files\\\\Python\\\\Pycharm files\\\\Pytest1\\\\pytest_withallure.py', 31, 'Skipped: We are going to skip this test case')",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "test_parent",
+    "time" : {
+      "start" : 1646640191706,
+      "stop" : 1646640197059,
+      "duration" : 5353
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "test_parent::0",
+    "time" : {
+      "start" : 1646640204441,
+      "stop" : 1646640207110,
+      "duration" : 2669
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "Pytest1"
+  }, {
+    "name" : "suite",
+    "value" : "pytest_withallure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testpyk"
+  }, {
+    "name" : "host",
+    "value" : "kk"
+  }, {
+    "name" : "thread",
+    "value" : "16548-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pytest1.pytest_withallure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6dcc6a759fbf112.json",
+  "parameterValues" : [ ]
+}

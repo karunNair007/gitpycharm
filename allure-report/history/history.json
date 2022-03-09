@@ -1,0 +1,62 @@
+{
+  "b3bacb368a2cec20908a682944b90bf3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "d2a547d1dbd96a86",
+      "reportUrl" : "http://localhost:8080/job/Python%20Automation/2/allure/#testresult/d2a547d1dbd96a86",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: We are going to skip this test case",
+      "time" : {
+        "start" : 1646660352939,
+        "stop" : 1646660352940,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "91242ee6015fb167",
+      "reportUrl" : "http://localhost:8080/job/Python%20Automation/1/allure/#testresult/91242ee6015fb167",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: We are going to skip this test case",
+      "time" : {
+        "start" : 1646640204433,
+        "stop" : 1646640204437,
+        "duration" : 4
+      }
+    } ]
+  },
+  "8c1a0a46d5294f564d774568103d0cb2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7775ed2104aa564c",
+      "reportUrl" : "http://localhost:8080/job/Python%20Automation/2/allure/#testresult/7775ed2104aa564c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646660345195,
+        "stop" : 1646660352932,
+        "duration" : 7737
+      }
+    }, {
+      "uid" : "6eb4a6091f7fbd6c",
+      "reportUrl" : "http://localhost:8080/job/Python%20Automation/1/allure/#testresult/6eb4a6091f7fbd6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1646640197060,
+        "stop" : 1646640204418,
+        "duration" : 7358
+      }
+    } ]
+  }
+}

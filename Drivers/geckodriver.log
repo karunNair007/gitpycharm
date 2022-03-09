@@ -1,0 +1,46 @@
+1644840709998	geckodriver	INFO	Listening on 127.0.0.1:56460
+1644840713093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56461" "-no-remote" "-profile" "C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileoLDn4S"
+1644840715429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileoLDn4S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56461/devtools/browser/43e980c7-b4c1-41c4-a6db-b11421cd9267
+1644840727217	Marionette	INFO	Listening on port 56466
+1644840727783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644840739639	Marionette	INFO	Stopped listening on port 56466
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644939092989	geckodriver	INFO	Listening on 127.0.0.1:61542
+1644939096080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61543" "-no-remote" "-profile" "C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileKiXIcs"
+1644939097103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileKiXIcs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61543/devtools/browser/dd3e0c45-6cdf-4442-897c-4bc0d6cd83aa
+1644939100502	Marionette	INFO	Listening on port 61549
+1644939100986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3667 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644939126048	Marionette	INFO	Stopped listening on port 61549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644939137122	geckodriver	INFO	Listening on 127.0.0.1:61628
+1644939140205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61629" "-no-remote" "-profile" "C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileeqzxVv"
+1644939140577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofileeqzxVv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61629/devtools/browser/e56223a4-1c55-4fdf-b4f0-4a1a01c9568a
+1644939142971	Marionette	INFO	Listening on port 61636
+1644939143404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5264 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 739 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 4677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1 line 1 > eval line 7198 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 3380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1644999313838	Marionette	INFO	Stopped listening on port 61636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1646280389864	geckodriver	INFO	Listening on 127.0.0.1:65038
+1646280392920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65039" "-no-remote" "-profile" "C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofilemPnr0Z"
+1646280393988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Karun\\AppData\\Local\\Temp\\rust_mozprofilemPnr0Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65039/devtools/browser/7eb51072-f571-49e9-876c-62bfd9e61d24
+1646280397234	Marionette	INFO	Listening on port 65044
+1646280397750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
